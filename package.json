@@ -1,0 +1,41 @@
+{
+  "name": "eslint-config-xo-este",
+  "version": "0.1.0",
+  "description": "ESLint shareable config for Este.js to be used with eslint-config-xo",
+  "license": "MIT",
+  "repository": "cbioley/eslint-config-xo-este",
+  "author": {
+    "name": "Cyril Bioley",
+    "email": "cyril.bioley@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "este",
+    "este.js",
+    "eslintconfig",
+    "xo",
+    "code",
+    "quality",
+    "style",
+    "lint",
+    "linter",
+    "validate",
+    "standard",
+    "strict",
+    "check",
+    "checker",
+    "verify",
+    "enforce"
+  ],
+  "devDependencies": {
+    "eslint": "^1.5.1"
+  },
+  "peerDependencies": {
+    "eslint": ">=1.5.1"
+  }
+}
